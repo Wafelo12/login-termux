@@ -1,7 +1,7 @@
 # TUTOR MENJALANKAN SCRIPT INI:
 $ pkg update && pkg upgrade
 $ pkg install nano ruby figlet python2 git -y
-$ gem onstall lolcat
+$ gem install lolcat
 $ pkg install git
 $ git clone https://github.com/wafipribadi/login-termux
 $ cd login-termux
